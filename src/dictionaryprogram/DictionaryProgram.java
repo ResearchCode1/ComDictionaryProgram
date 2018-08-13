@@ -10,16 +10,16 @@ import java.util.Scanner;
 public class DictionaryProgram {
 
     public static void main(String[] args) {
-        
+        //Testing Git
 		//Create a hasmap with the key and value are string
-		HashMap<String,String> dictionary = new HashMap <String,String>();
+		HashMap<String,String> dictionary = new HashMap();
 		//Adding vocabulary into the dictionary
                
 		dictionary.put("algorithm", "A step-by-step procedure to achieve a specific goal.");
 		dictionary.put("array", "An Oldfag is  is a user of an online community who has been\nwith the community a considerable amount of time");
 		dictionary.put("bracket","Characters often used to surround text");
 		dictionary.put("bug","A mistake in a program");
-		;dictionary.put("comment","Arbitrary text written around code, but which is never run,\nand is generally ignored by the computer. Used to leave notes\nand documentation for people who read the code later. ");
+		dictionary.put("comment","Arbitrary text written around code, but which is never run,\nand is generally ignored by the computer. Used to leave notes\nand documentation for people who read the code later. ");
                 
 		Scanner keyboard = new Scanner(System.in);
 		String input = " ";
