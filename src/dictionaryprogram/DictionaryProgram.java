@@ -14,7 +14,7 @@ public class DictionaryProgram {
 		//Create a hasmap with the key and value are string
 		HashMap<String,String> dictionary = new HashMap();
 		//Adding vocabulary into the dictionary
-               
+               	//test 3
 		dictionary.put("algorithm", "A step-by-step procedure to achieve a specific goal.");
 		dictionary.put("array", "An Oldfag is  is a user of an online community who has been\nwith the community a considerable amount of time");
 		dictionary.put("bracket","Characters often used to surround text");
