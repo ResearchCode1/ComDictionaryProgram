@@ -8,7 +8,7 @@ package DictionaryProgram;
 import java.util.HashMap;
 import java.util.Scanner;
 public class DictionaryProgram {
-
+//Demo of Editing
     public static void main(String[] args) {
         //Testing Git
 		//Create a hasmap with the key and value are string
